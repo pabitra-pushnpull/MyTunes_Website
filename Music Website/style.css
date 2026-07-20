@@ -60,3 +60,13 @@ nav {
   font-size: 32px;
   font-weight: 600;
 }
+
+button {
+  padding: 10px 15px;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+button:hover {
+  transition: 0.2s ease-in-out;
+  opacity: 0.8;
+}
